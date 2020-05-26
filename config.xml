@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <db_message>
+    <db_addr>3</db_addr>
+    <db_username>1</db_username>
+    <db_password>2</db_password>
+    <db_dbname>4</db_dbname>
+    <sql/>
+    <db_table/>
+  </db_message>
+  <jobtiming/>
+  <file_root_path/>
+</root>
